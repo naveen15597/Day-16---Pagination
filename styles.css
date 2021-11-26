@@ -1,0 +1,29 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+
+btn-back-color{
+    background: green;
+}
+
+.numbers{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+h2{
+    display: flex;    
+    justify-content: space-around;
+}
